@@ -17,6 +17,14 @@
         ],
         ":hash": "30fd5882524ee657a757f5f119b7162378600d2a81a95e6e45532cc7c313cf3d",
         ":size": 156256
+      },
+      "PyQt-Fluent-Widgets-master.zip": {
+        ":file": "netdisk-355d5de82879477985a74e34efcac952",
+        ":assets": [
+          "PyQt-Fluent-Widgets-master.zip"
+        ],
+        ":hash": "49aab185214cb622cd9c7a9a5132b49c58348dca10198619157714a367ba4c4d",
+        ":size": 43737279
       }
     }
   }
