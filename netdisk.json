@@ -1,7 +1,15 @@
 {
   "version": 1,
   "files": {
-    "测试文件": {
+    "LICENSE.txt": {
+      ":file": "netdisk-103559fbefa24563ab7cedde1742664d",
+      ":assets": [
+        "LICENSE"
+      ],
+      ":hash": "6852c5660e8b1091694e5350f2cbb7fff8f0e067d5fb1581982d5c78f90a655c",
+      ":size": 35802
+    },
+    "测试": {
       "头像.jpg": {
         ":file": "netdisk-7dc6a49b42874dd4a3487b0fb57e840a",
         ":assets": [
@@ -18,14 +26,6 @@
         ":hash": "49aab185214cb622cd9c7a9a5132b49c58348dca10198619157714a367ba4c4d",
         ":size": 43737279
       }
-    },
-    "LICENSE.txt": {
-      ":file": "netdisk-103559fbefa24563ab7cedde1742664d",
-      ":assets": [
-        "LICENSE"
-      ],
-      ":hash": "6852c5660e8b1091694e5350f2cbb7fff8f0e067d5fb1581982d5c78f90a655c",
-      ":size": 35802
     }
   }
 }
