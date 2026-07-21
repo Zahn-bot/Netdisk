@@ -34,6 +34,18 @@
       ],
       ":hash": "1a8186767955fa453365d9cecdb174d1835a874d70a8205811fa635c69006e92",
       ":size": 615768
+    },
+    "Win11_25H2_Chinese_Simplified_Arm64_v2.iso": {
+      ":file": "netdisk-e38909a848af40d1bd3bb39fa5e42ed7",
+      ":assets": [
+        "Win11_25H2_Chinese_Simplified_Arm64_v2.iso.part0001",
+        "Win11_25H2_Chinese_Simplified_Arm64_v2.iso.part0002",
+        "Win11_25H2_Chinese_Simplified_Arm64_v2.iso.part0003",
+        "Win11_25H2_Chinese_Simplified_Arm64_v2.iso.part0004",
+        "Win11_25H2_Chinese_Simplified_Arm64_v2.iso.part0005"
+      ],
+      ":hash": "fccff2f7eef5b29e756e3e51522203e03f7faeebaff093dac9c6e5b67b082432",
+      ":size": 8315279360
     }
   }
 }
